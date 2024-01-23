@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-Blind_bidding/main.py
+Blind_bidding/__pycache__/main.py
 __pycache__/
 *.py[cod]
 *$py.class
